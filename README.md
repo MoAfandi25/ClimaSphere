@@ -1,7 +1,7 @@
 # 🌍 Plateforme Web de Visualisation du Climat
 
 Description 📌 :
-Ce projet est une plateforme web interactive permettant de visualiser en temps réel les données climatiques d’une ville donnée. Il utilise l’API OpenWeather pour récupérer et afficher des informations telles que la température, l’humidité et les prévisions météo. L’interface a été conçue en HTML, CSS et JavaScript avec des graphiques interactifs et animations pour une expérience utilisateur fluide.
+- Ce projet est une plateforme web interactive permettant de visualiser en temps réel les données climatiques d’une ville donnée. Il utilise l’API OpenWeather pour récupérer et afficher des informations telles que la température, l’humidité et les prévisions météo. L’interface a été conçue en HTML, CSS et JavaScript avec des graphiques interactifs et animations pour - une expérience utilisateur fluide.
 
 Technologies utilisées 🛠️ : 
 - HTML / CSS / JavaScript – Développement de l’interface utilisateur
