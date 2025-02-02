@@ -8,15 +8,15 @@ Technologies utilisées 🛠️ :
 - OpenWeather API – Récupération des données météorologiques
 
 Fonctionnalités 🚀 :
-✔️ Affichage des données météorologiques en temps réel
-✔️ Visualisation des tendances climatiques sous forme de graphiques dynamiques
-✔️ Animations et design interactif pour une meilleure UX
+ - Affichage des données météorologiques en temps réel
+ - Visualisation des tendances climatiques sous forme de graphiques dynamiques
+ - Animations et design interactif pour une meilleure UX
 
-Améliorations futures💡: 
-🔹 Ajout d’une géolocalisation automatique pour afficher la météo locale
-🔹 Intégration d’autres données météorologiques avancées (vent, pression, UV...)
-🔹 Version mobile optimisée pour une meilleure accessibilité
-🔹 Ajout d’une fonctionnalité de prévisions météorologiques
+Améliorations futures💡:  
+ - Ajout d’une géolocalisation automatique pour afficher la météo locale
+ - Intégration d’autres données météorologiques avancées (vent, pression, UV...)
+ - Version mobile optimisée pour une meilleure accessibilité
+ - Ajout d’une fonctionnalité de prévisions météorologiques
 
 💡 Remarque : Ce projet est une petite initiative d'apprentissage et fera l’objet de diverses améliorations au cours des prochains mois afin d’enrichir ses fonctionnalités et d’optimiser l’expérience utilisateur. 
 
